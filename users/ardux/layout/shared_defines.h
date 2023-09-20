@@ -12,14 +12,14 @@
  */
 
 // Base layer for standard Ardux
-#define KEY_T1 LT(LAYER_ID_PARENTHETICALS, KC_A)
-#define KEY_T2 KC_R
-#define KEY_T3 KC_T
-#define KEY_T4 LT(LAYER_ID_NUMBERS, KC_S)
-#define KEY_B1 LT(LAYER_ID_SYMBOLS, KC_E)
-#define KEY_B2 KC_Y
-#define KEY_B3 KC_I
-#define KEY_B4 LT(LAYER_ID_CUSTOM, KC_O)
+#define KEY_T1 LT(LAYER_ID_PARENTHETICALS, KC_N)
+#define KEY_T2 KC_E
+#define KEY_T3 KC_I
+#define KEY_T4 LT(LAYER_ID_NUMBERS, KC_O)
+#define KEY_B1 LT(LAYER_ID_SYMBOLS, KC_T)
+#define KEY_B2 KC_S
+#define KEY_B3 KC_R
+#define KEY_B4 LT(LAYER_ID_CUSTOM, KC_A)
 
 // Number layer
 #define KNUM_T1 KC_1
