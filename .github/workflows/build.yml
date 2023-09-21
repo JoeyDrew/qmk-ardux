@@ -23,6 +23,7 @@ jobs:
           - layout: crkbd_rev1
             hand: right
             size: big
+            fwext: hex
 
     steps:
       - name: Checkout
